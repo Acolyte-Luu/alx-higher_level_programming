@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def add(a,b):
+def add(a, b):
     sum = int(a) + int(b)
-    print(sum,end='')
-    return sum
+    print(int(sum), end='')
+    return int(sum)
