@@ -1,8 +1,14 @@
 #!/usr/bin/python3
+"""
+Module 1-rectangle
+Defines a Rectangle class with private instance attributes width and height
+"""
+
 
 class Rectangle:
     """
     Rectangle class with private instance attributes width and height
+    Attributes:
     - width (int): width of the rectangle (default 0)
     - height (int): height of the rectangle (default 0)
     """
@@ -10,6 +16,9 @@ class Rectangle:
     def __init__(self, width=0, height=0):
         """
         Initializes a Rectangle instance with optional width and height
+        Args:
+        - width (int): width of the rectangle (default 0)
+        - height (int): height of the rectangle (default 0)
         """
         self.width = width
         self.height = height
