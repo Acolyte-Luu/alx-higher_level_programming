@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """This module define a rectangle based on 7-rectangle.py"""
 
+
 class Rectangle:
     number_of_instances = 0
     print_symbol = "#"
