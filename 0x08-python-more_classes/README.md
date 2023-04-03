@@ -1,0 +1,1 @@
+tasks and lessons to teach in depth about classes and objects in Python
