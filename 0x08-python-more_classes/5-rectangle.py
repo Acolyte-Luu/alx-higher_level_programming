@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """This module defines a class rectangle based on 4-rectangle.py"""
 
+
 class Rectangle:
     def __init__(self, width=0, height=0):
         self.width = width
