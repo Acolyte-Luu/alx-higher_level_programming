@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """This module defines a class rectangle based on 5-rectangle.py"""
 
+
 class Rectangle:
     """Class that defines a rectangle"""
 
