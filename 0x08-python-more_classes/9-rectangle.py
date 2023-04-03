@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """This module defines a class rectangle based on 8-rectangle.py"""
 
+
 class Rectangle:
     """A class that defines a rectangle."""
 
@@ -82,5 +83,4 @@ class Rectangle:
     @classmethod
     def square(cls, size=0):
         """Create a new Rectangle instance with width == height == size."""
-        return cls(size, size
-                )
+        return cls(size, size)
