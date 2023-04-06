@@ -1,0 +1,1 @@
+Different type of project which tests the understanding and knowledge of Python
