@@ -1,4 +1,3 @@
--- This will update the score of Bob to 10 in the table second_table.
-UPDATE `second_table`
-SET `score` = 10
-WHERE `name` = "Bob";
+-- This will remove all the records with a score <= 5 in the table second_table.
+DELETE FROM `second_table`
+WHERE `score` <= 5;
