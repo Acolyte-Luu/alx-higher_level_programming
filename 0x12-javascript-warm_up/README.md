@@ -1,0 +1,1 @@
+Foundational knowledge on JavaScript
