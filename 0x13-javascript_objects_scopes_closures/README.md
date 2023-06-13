@@ -1,0 +1,1 @@
+Javascript objects,scopes and closures. Tasks to solidify the theory
